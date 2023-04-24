@@ -1,0 +1,18 @@
+Node.js is a JS freamework
+Node.js is a JS freamework , open source , cross-platform , single threaded
+
+featsurs :
+            - JS
+            - ES - Ecma Script
+            - fast performance
+            - support a lot of library
+            - support async process
+            - real time - chating - notification - request response ;
+            - single thread
+
+Node.js dependancies :
+            -Js code standards : ECMA Script
+            -Modules : Common JS
+            -Js Engin : V8 Engin : ecexcute code in sync - single thread v8 call stack C++
+            -Libuv : async handler (async) C - multithreaded
+            -npm : manager dependacer manager tool : management tool for js
