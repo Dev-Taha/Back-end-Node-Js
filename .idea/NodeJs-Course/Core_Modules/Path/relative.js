@@ -1,5 +1,5 @@
 // لازم اشغلو فقط من نفش المسار الى موجود فيه الملف - ان كان من الخاارج فى الحالة هاي بشتغل عادي
-const story = require('./data/story.txt');
+const story = require('../data/story.txt');
 // comment whene you run file
 console.log(story);
 
