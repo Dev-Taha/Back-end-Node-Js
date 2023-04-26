@@ -39,3 +39,7 @@ npm un package_name
 
 # install a package globally
 npm i -g package_name
+
+# version
+5.2.3
+magore.miner.Batch
