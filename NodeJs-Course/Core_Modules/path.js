@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('NodeJs-Course/Core_Modules/path');
 
 console.log(__filename)
 
