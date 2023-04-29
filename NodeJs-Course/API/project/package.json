@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": " my Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev-taha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
